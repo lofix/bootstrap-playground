@@ -1,10 +1,9 @@
-/*
+$(function() {
+    var alertButton = $("#alertMe");
+    alertButton.click(function(e) {
+        e.preventDefault();
+        var successAlert = $("#success-alert");
+        successAlert.slideToggle();
+    })
 
-My Custom JS
-============
-
-Author:  Brad Hussey
-Updated: August 2013
-Notes:	 Hand coded for Udemy.com
-
-*/
+});
