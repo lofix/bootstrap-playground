@@ -4,12 +4,16 @@
     text-align: center;
 }
 
-#features {
+#features img {
     margin: 0 0 20px;
 }
 
 .tabbable img.thumbnail {
     margin: 0 20px 20px 0;
+}
+
+#inputMessage {
+    margin-bottom: 15px;
 }
 
 
