@@ -8,6 +8,10 @@
     margin: 0 0 20px;
 }
 
+.tabbable img.thumbnail {
+    margin: 0 20px 20px 0;
+}
+
 
 /***   Typography  ***/
 
@@ -144,4 +148,9 @@ body {
         background-position: top center;
         background-repeat: no-repeat;
     }
+}
+
+
+}
+
 }
